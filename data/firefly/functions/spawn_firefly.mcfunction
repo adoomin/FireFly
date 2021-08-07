@@ -1,0 +1,1 @@
+give @p phantom_spawn_egg{display:{Name:'{"text":"Firefly","color":"green","bold":true}'},EntityTag:{id:"minecraft:bat",Silent:1b,Tags:["FireFly"]}} 1
